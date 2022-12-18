@@ -14,3 +14,6 @@
 
 [Архитектура](docs/architecture.md)
 [Процессы](docs/process.md)
+
+
+[Команда](docs/team.md)
